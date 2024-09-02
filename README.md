@@ -1,27 +1,27 @@
-<h1 align="center"><strong> ミ★𝐇𝐀𝐍𝐒-𝐕𝟐★彡</strong></h1>
+<h1 align="center"><strong> ミ★VIPER BOT★彡</strong></h1>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HANS+V2+BOT+BEST+WA+BOT;CREATED+BY+HANS+TECH;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=VIPER+BOT+BEST+WA+BOT;CREATED+BY+ONYX+TECH;" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://youtube.com/@HansTech0">
-    <img alt="HANS-TECH" height="400" src="https://i.ibb.co/4FzFMp6/hans.jpg">
+    <img alt="ONYX-TECH" height="400" src="https://i.ibb.co/4FzFMp6/hans.jpg">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/HaroldMth/Hans-bug-bot/fork">
-    <img src="https://img.shields.io/github/forks/HaroldMth/Hans-V2?label=Fork&style=social">
+  <a href="https://github.com/OnyxT3ch/Viper-MD/fork">
+    <img src="https://img.shields.io/github/forks/OnyxT3ch/Viper-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/HaroldMth/Hans-V2/stargazers"> 
-    <img src="https://img.shields.io/github/stars/HaroldMth/Hans-V2?style=social">
+  <a href="https://github.com/OnyxT3ch/Viper-MD/stargazers"> 
+    <img src="https://img.shields.io/github/stars/OnyxT3ch/Viper-MD?style=social">
   </a>
 
-  <a href="https://wa.me/237696900612" target="_blank">
+  <a href="https://wa.me/263780858655" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ CONTACT OWNER -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    <p align="center">
-<a href="https://github.com/HaroldMth"><img title="Owner" src="https://img.shields.io/badge/Owner-HANS_TECH-blue.svg?style=for-the-badge&logo=github" width="185px"
+<a href="https://github.com/OnyxT3ch"><img title="Owner" src="https://img.shields.io/badge/ONYX_TECH-blue.svg?style=for-the-badge&logo=github" width="185px"
 </p>
 <a href="https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
