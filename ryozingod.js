@@ -1,9 +1,9 @@
-/* Ini Yang No Enc, Btw Jangan Di Perjual Beli Kan Memek Yatim Lu Goblok
+/* This is the No Enc, Btw Don't Buy and Sell 
 
-Mau Recode? Kasih Credit Gw
-Created By : HadzzOfficial
+Want to Recode? Give me credit
+Created By : onyxtech
 
-Note📝 : Jangan Di Salah Gunain Ke Orang Yang Gak Bersalah
+Note📝 : Don't Misuse Innocent People
 */
 
 
@@ -16,7 +16,7 @@ const { ryozingodConnect, downloadContentFromMessage, emitGroupParticipantsUpdat
 //=================================================//
 const { default: makeWaSocket, useMultiFileAuthState } = require('@whiskeysockets/baileys')
 //=================================================//
-// Disini Ada Beberapa Modul Yg Udh kg gw Pake, lu Hapus Sendiri Aj 🚬🗿
+// Here are some modules that I use, I deleted them myself 🚬🗿
 const axios = require('axios')
 const os = require('os').cpus().length
 const util = require('util')
@@ -67,7 +67,7 @@ let afk = require("./lib/afk") //afk
 
 //=================================================//
 const ntilink = JSON.parse(fs.readFileSync("./lib/antilink.json"))
-let tebaklagu = db.data.game.tebaklagu = []
+let tebaklagu = db.data.game.Guessthesong = []
 let kuismath = db.data.game.kuismath = []
 let tebakgambar = db.data.game.tebakgambar = []
 let tebakkata = db.data.game.tebakkata = []
@@ -479,7 +479,7 @@ if (db.data.settings[botNumber].autobio) {
 let setting = db.data.settings[botNumber]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
-await ryozingod.updateProfileStatus(`✳️ H e V - Flient By : AlwaysHadzz || ✅ Runtime : ${uptime}`)
+await ryozingod.updateProfileStatus(`✳️ H e V - Flient By : onyx || ✅ Runtime : ${uptime}`)
 setting.status = new Date() * 1
 }
 }
@@ -527,15 +527,15 @@ const moment = require('moment-timezone');
 const time = moment().tz("Asia/Jakarta").format("HH:mm:ss");
 let ucapanWaktu
 if (time >= "19:00:00" && time < "23:59:00") {
-ucapanWaktu = "🌃 Selamat Malam"
+ucapanWaktu = "🌃 Good evening"
 } else if (time >= "15:00:00" && time < "19:00:00") {
-ucapanWaktu = "🌄 Selamat Sore"
+ucapanWaktu = "🌄 Good Afternoon"
 } else if (time >= "11:00:00" && time < "15:00:00") {
-ucapanWaktu = "🏞️ Selamat Siang"
+ucapanWaktu = "🏞️ Good afternoon"
 } else if (time >= "06:00:00" && time < "11:00:00") {
-ucapanWaktu = "🏙️ Selamat Pagi"
+ucapanWaktu = "🏙️ Good morning"
 } else {
-ucapanWaktu = "🌆 Selamat Subuh"
+ucapanWaktu = "🌆 Happy Dawn"
 }
 const wib = moment(Date.now()).tz("Asia/Jakarta").locale("id").format("HH:mm:ss z")
 const wita = moment(Date.now()).tz("Asia/Makassar").locale("id").format("HH:mm:ss z")
@@ -841,7 +841,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 "extendedTextMessage": {
-"text": `🖥️༐✲ 𝐇𝐚𝐝𝐳𝐳𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𒑊 ${m.body || m.mtype}`,
+"text": `🖥️༐✲ onyxtech 𒑊 ${m.body || m.mtype}`,
 "title": `⟠ 𝐇͢𝐞𝐕 ⿻ 𝐅𝐋͢𝐢𝚵𝐍͢𝐓 々`,
 'jpegThumbnail': fakejpg,
 }
