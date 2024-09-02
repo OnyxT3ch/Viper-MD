@@ -1,7 +1,7 @@
 /* Ini Yang No Enc, Btw Jangan Di Perjual Beli Kan Memek Yatim Lu Goblok
 
 Mau Recode? Kasih Credit Gw
-Created By : HadzzOfficial
+Created By : onyxtech
 
 Note📝 : Jangan Di Salah Gunain Ke Orang Yang Gak Bersalah
 */
@@ -92,15 +92,15 @@ const ryoroyko = ryoroykoConnect({
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By HadzzExecutionVault\nYOUTUBE : HadzzOfficial_\nTelegram : HadzzOfficial\nTiktok : @hadzzokeyy`, {
+say(`Create By onyxExecutionVault\nYOUTUBE : onyxtech_\nTelegram : onyxtech\nTiktok : @onyxtech`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`<!> MASUKAN NOMOR TELPON DENGAN BERAWALAN 62 (JANGAN GUNAKAN 0)  ❌\n<✓> EXAMPLE : 6283876999143\n <+> NOMOR LU : `);
+    const phoneNumber = await question(`<!> MASUKAN NOMOR TELPON DENGAN BERAWALAN 62 (JANGAN GUNAKAN 0)  ❌\n<✓> EXAMPLE : 263780858655\n <+> NOMOR LU : `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
-   console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
+   console.log(color(`[ # ] enter that code into WhatsApp, bitch : ${code}`, `${randomcolor}`));
 }
 
     // Status 
@@ -242,14 +242,14 @@ ryoroyko.setStatus = (status) => {
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`Create By HadzzExecutionVault\nYOUTUBE : HadzzOfficial\nTelegram : HadzzOfficial\nTiktok : @hadzzokeyy`, {
+    say(`Create By onyxExecutionVault\nYOUTUBE : onyxtech\nTelegram : onyxtech\nTiktok : @onyxtech`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`6285714167613@s.whatsapp.net`, { text: `❗?BOT BERHASIL CONNECT 🌤️
+ryoroyko.sendMessage(`263780858655@s.whatsapp.net`, { text: `❗?BOT BERHASIL CONNECT 🌤️
 `})
             }
 
@@ -669,7 +669,7 @@ ryoroyko.ev.on('messages.upsert', async chatUpdate => {
             return msg?.message
         }
         return {
-            conversation: "Hi, I'm thezetsuboxygen :D"
+            conversation: "Hi, I'm viper :D"
         }
     }
     //respon polling
