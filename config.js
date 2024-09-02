@@ -23,14 +23,14 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['6285714167613']
-global.ownMain = '6285714167613'
-global.NamaOwner = 'HadzzOffc' //gausah diganti 
-global.sessionName = 'hadzzsession'
+global.owner = ['263780858655']
+global.ownMain = '263780858655'
+global.NamaOwner = 'ONYX Tech' //gausah diganti 
+global.sessionName = 'onyxsession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '✳️᜴࿆͆᷍𝐇𝐄𝐕̺𝐕𝐈𝐒𝐈𝐎𝐍̱̺̠' //ganti aj klo mau
-global.author = '© Hadzz' //ganti aj klo mau
-global.packname = '✳️᜴࿆͆᷍𝐇𝐄𝐕̺𝐕𝐈𝐒𝐈𝐎𝐍̱̺' //ganti aj klo mau
+global.namabot = 'Viper🐍' //ganti aj klo mau
+global.author = '© onyx tech' //ganti aj klo mau
+global.packname = 'Viper🐍' //ganti aj klo mau
 global.yt = 'https://youtube.com/@HadzzOfficial_' //gausah diganti
 
 //===========================//
@@ -48,7 +48,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 global.country = `62`
 global.system = {
-gmail: `hadzzokeyy@gmail.com`,
+gmail: `onyxtech726@gmail.com`,
 }
 
 //===========================//
