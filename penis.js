@@ -7,7 +7,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'By Hadzz Execution Vault',
+"newsletterName": 'By onyx Execution Vault',
 "serverMessageId": 1
 },
 },
@@ -20,13 +20,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Hadzz Execution Vault ⌟  ⿻"
+"text": "⿻  ⌜ onyx Execution Vault ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻𝐇𝐚𝐝𝐳𝐙͜⿻\nAKU SUKA AMA LOBANG MEMEK KAMU, AYO NGEWE😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻onyx𝐙͜⿻\nI LOVE YOUR PUSSY HOLE, LET'S EAT😋😘\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -50,7 +50,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'By Zero Execution Vault',
+"newsletterName": 'By onyx Execution Vault',
 "serverMessageId": 1
 },
 },
@@ -63,13 +63,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Zero Execution Vault ⌟  ⿻"
+"text": "⿻  ⌜ onyx Execution Vault ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻𝐙͢𝐱𝐕⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻𝐙͢onyx⿻\nI LOVE YOUR BOOL HOLE, LET'S EAT😋😘\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
